@@ -21,6 +21,7 @@ public class simpleSteps {
 	@Then("^I validate the outcomes$")
 	public void i_validate_the_outcomes() throws Throwable {
 		System.out.println("Then Step");
+		System.out.println("Test Step for learning GIT");
 	   
 	}
 
